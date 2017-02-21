@@ -1,0 +1,22 @@
+{
+  "name": "slackbot-test",
+  "version": "0.0.1",
+  "description": "just testing out the slackbot api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangerismycat/slackbot-testy-mctest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dangerismycat/slackbot-testy-mctest/issues"
+  },
+  "homepage": "https://github.com/dangerismycat/slackbot-testy-mctest#readme",
+  "dependencies": {
+    "slack": "^8.2.0"
+  }
+}
